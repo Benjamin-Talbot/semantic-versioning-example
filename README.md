@@ -2,4 +2,4 @@
 
 Testing how to implement semantic versioning.
 
-Change README.md.
+Change README.md again.
